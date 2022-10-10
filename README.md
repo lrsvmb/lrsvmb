@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Software Engineer @CG-T GmbH<br>👯 Contributions to flutter packages<br>🌱 CompSci student @RWTH Aachen University<br>💬 Open for chat about Flutter<br>⚡ Fun fact: I have been employed as a SE since I was 16
+🔭 Software Engineer @CG-T GmbH<br>>🌱 CompSci student @RWTH Aachen University<br>💬 Open for discussions of any kind!<br>
 
 
 ## 🌐 Socials:
