@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Software Engineer @CG-T GmbH<br>🌱 CompSci Student @RWTH Aachen University<br>💬 Open for discussions of any kind!<br>
+🔭 Software Engineer @CG-T GmbH<br>🌱 CompSci Student @RWTH Aachen University<br>💬 Currently working with Next.js!<br>
 
 
 ## 🌐 Socials:
